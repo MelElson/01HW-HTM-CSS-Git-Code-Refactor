@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.bg-meeting {
+.hero-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -136,7 +136,8 @@ p {
     max-width: 150px;
 }
 */
-.search-engine-optimization {
+/* replace .search-enging-optimization */
+.seo-mgmt-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -144,7 +145,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -154,7 +155,7 @@ p {
     color: #ffffff;
 }
 
-.social-media-marketing {
+.seo-mgmt-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -162,11 +163,12 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
+ */
+/* replace .search-engine-optimization */
+.seo-mgmt-marketing img {
     max-height: 200px;
 }
-
+/*
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -174,12 +176,13 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-.search-engine-optimization h2 {
+*/
+/* replace .search-engine-optimization */
+.seo-mgmt-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -189,6 +192,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+*/ 
 /*  change .footer { */
 footer {
     padding: 30px;
