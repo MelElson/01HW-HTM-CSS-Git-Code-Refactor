@@ -43,3 +43,13 @@ Changes that were made to optimize the website
 
 ### Changed HTML
 ![Changed HTML](./assets/images/screenshothtml.png)
+![Changed HTML](./assets/images/screenshothtml2.png)
+![Changed HTML](./assets/images/screenshothtml3.png)
+
+### Changed CSS
+![Changed HTML](./assets/images/screenshotcss1.png)
+![Changed HTML](./assets/images/screenshotcss2.png)
+![Changed HTML](./assets/images/screenshotcss3.png)
+
+### Website Snapshot
+![Changed HTML](./assets/images/screenshotfinal.png)
