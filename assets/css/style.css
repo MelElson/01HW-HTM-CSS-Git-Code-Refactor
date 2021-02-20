@@ -105,7 +105,7 @@ p {
 }
 
 /* replace .search-enging-optimization */
-.seo-mgmt-marketing {
+.target {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -115,12 +115,12 @@ p {
 }
 
 /* replace .search-engine-optimization */
-.seo-mgmt-marketing img {
+.target img {
     max-height: 200px;
 }
 
 /* replace .search-engine-optimization */
-.seo-mgmt-marketing h2 {
+.target h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
